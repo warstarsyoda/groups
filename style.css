@@ -1,0 +1,24 @@
+.groups {
+    display:inline-block;
+    speak:never;
+    font-style:normal;
+    font-weight:normal;
+    font-variant:normal;
+    text-transform:none;
+    line-height:var(--Iconsax-Size);
+    vertical-align:middle;
+}
+
+.groups svg {
+    display:block;
+    width:var(--Iconsax-Size);
+    height:var(--Iconsax-Size);
+}
+
+.groups svg [stroke]{
+    stroke:var(--Iconsax-Color);
+}
+
+.groups svg [fill]{
+    fill:var(--Iconsax-Color);
+}
